@@ -1,0 +1,6 @@
+C:\Users\יונתן בנדל\Downloads\Damka-WinForms-master\Ex05.GameLogic\bin\Debug\Ex05.GameLogic.dll
+C:\Users\יונתן בנדל\Downloads\Damka-WinForms-master\Ex05.GameLogic\bin\Debug\Ex05.GameLogic.pdb
+C:\Users\יונתן בנדל\Downloads\Damka-WinForms-master\Ex05.GameLogic\obj\Debug\Ex05.GameLogic.csprojResolveAssemblyReference.cache
+C:\Users\יונתן בנדל\Downloads\Damka-WinForms-master\Ex05.GameLogic\obj\Debug\Ex05.GameLogic.csproj.CoreCompileInputs.cache
+C:\Users\יונתן בנדל\Downloads\Damka-WinForms-master\Ex05.GameLogic\obj\Debug\Ex05.GameLogic.dll
+C:\Users\יונתן בנדל\Downloads\Damka-WinForms-master\Ex05.GameLogic\obj\Debug\Ex05.GameLogic.pdb
