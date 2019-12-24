@@ -7,5 +7,5 @@
 ![alt text](https://github.com/YonatanBandel/Damka/blob/master/GameSettings.png)
 ![alt text](https://github.com/YonatanBandel/Damka/blob/master/GameBoard.png)
 
-## requirements
+## Requirements
 1. Visual Studio. 
